@@ -22,4 +22,13 @@ Use the command "ls".
 
 ```
 Use the command "cd <directory>".
+
+
+
+
 ```
+## Question3 
+
+right click -> profiles-> profilepreferances
+
+![alt text](http://cdn.makeuseof.com/wp-content/uploads/2016/08/Ubuntu-Plain-Term-e1471581643714.jpg?663fb1)
