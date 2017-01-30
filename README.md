@@ -1,8 +1,6 @@
 
 ### Research Topic One  
 
-#
-## What 
 
 
 
